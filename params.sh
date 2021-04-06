@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Test Numbers w/GitHub Hook."
+echo "Test Numbers GitHub Hook..."
 NUMBER=$(($NUMONE + $NUMTWO))
 echo "Total Numbers are: $NUMBER"
